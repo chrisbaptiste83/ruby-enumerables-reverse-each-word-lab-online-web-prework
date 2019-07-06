@@ -1,1 +1,2 @@
-def rereverse_each_word
+def rereverse_each_word(string)
+  
